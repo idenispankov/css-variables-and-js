@@ -1,0 +1,5 @@
+.image {
+  padding: var(--spacing);
+  background: var(--base);
+  filter: blur(var(--blur));
+}
